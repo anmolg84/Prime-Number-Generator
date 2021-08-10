@@ -1,0 +1,11 @@
+Simple Prime Number Generator Using Javascript
+Method 1: Brute force approach : check  each element if prime or not
+Method 2: Check optimally all even number are non prime except 2 , therefore check only for odd and 2
+Method 3: Using Sieve of Eratosthenes
+
+Steps:
+1.Clone it on your device
+2.Open index.html file in browser
+3.Give num1,num2 and method number as input
+4.Open console in browser 
+ 
