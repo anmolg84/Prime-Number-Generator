@@ -1,0 +1,22 @@
+Simple Prime Number Generator Using Express Javascript, Mongodb, REST
+
+Method 1: Brute force approach : check  each element if prime or not
+Method 2: Check optimally all even number are non prime except 2 , therefore check only for odd and 2
+Method 3: Using Sieve of Eratosthenes
+
+Steps:
+1.Clone it on your device
+2.Open it in idle (vs code) or cmd and install packages by running npm install
+3.Run npm install express mongoose
+4.Run npm install nodemon
+5.Run npm run dev
+
+
+Links
+Method 1: http://localhost:3000/prime-number/m1?num1=2&num2=520
+Method 2: http://localhost:3000/prime-number/m2?num1=2&num2=520
+Method 3: http://localhost:3000/prime-number/m3?num1=2&num2=520
+
+Note: (You need to give num1 num2 input in link itself 
+edit num1 = and num2 = to change values )
+To check about database get into your mongodb folder
